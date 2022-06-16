@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react_website_gh/static/css/main.fe5b0ab8.css",
+    "main.js": "/react_website_gh/static/js/main.6008acd1.js",
+    "static/media/vineyard.jpg": "/react_website_gh/static/media/vineyard.7f6a31cec54f71db0f70.jpg",
+    "static/media/intro.jpg": "/react_website_gh/static/media/intro.af369326adac3f010237.jpg",
+    "static/media/ura2.jpg": "/react_website_gh/static/media/ura2.08acd3629d9fa1ea9a44.jpg",
+    "static/media/stonecastle.jpg": "/react_website_gh/static/media/stonecastle.468bb07dd175f8983d8f.jpg",
+    "static/media/anadrinia.jpg": "/react_website_gh/static/media/anadrinia.79e190f3cd9527ac1d94.jpg",
+    "static/media/basket.jpg": "/react_website_gh/static/media/basket.e368278b9c71e611668d.jpg",
+    "static/media/bjeshka.jpg": "/react_website_gh/static/media/bjeshka.732cbf31affd180b1e0c.jpg",
+    "static/media/bodrumi.jpg": "/react_website_gh/static/media/bodrumi.299f27cf718a6257462d.jpg",
+    "static/media/nqosh.jpg": "/react_website_gh/static/media/nqosh.82a5051b28f8140e00a9.jpg",
+    "static/media/sahatkulla.jpg": "/react_website_gh/static/media/sahatkulla.0f61004b9b7d3b61df8d.jpg",
+    "static/media/stadiumi.jpg": "/react_website_gh/static/media/stadiumi.8d83eebeb80529181f01.jpg",
+    "static/media/drini.jpg": "/react_website_gh/static/media/drini.e31e3c3d700a87e8b72a.jpg",
+    "static/media/hardhfest.jpg": "/react_website_gh/static/media/hardhfest.3054cee49b40ff9aef29.jpg",
+    "index.html": "/react_website_gh/index.html",
+    "main.fe5b0ab8.css.map": "/react_website_gh/static/css/main.fe5b0ab8.css.map",
+    "main.6008acd1.js.map": "/react_website_gh/static/js/main.6008acd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5b0ab8.css",
+    "static/js/main.6008acd1.js"
+  ]
+}
